@@ -1,0 +1,62 @@
+.pricing-section,
+.faq-section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.pricing-section .card {
+  border: none;
+  border-radius: 8px;
+}
+
+.pricing-section .card-header {
+  height: 10px;
+}
+
+.bg-light-grey {
+  background-color: #f8f9fa; /* Light grey background */
+}
+
+.bg-green {
+  background-color: #17a2b8; /* Green background */
+}
+
+.pricing-section .featured {
+  border: 2px solid #17a2b8; /* Highlight the Business plan */
+}
+
+.pricing-section .card-title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.pricing-price {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.pricing-currency {
+  font-size: 2rem;
+}
+
+.pricing-duration {
+  font-size: 1rem;
+  color: #888;
+}
+.bg-green {
+    background-color: #17a2b8; /* Green background */
+  }
+  
+  .bg-light-grey {
+    background-color: #f8f9fa; /* Light grey background */
+  }
+  
+  .pricing-section .card-title.bg-green {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+  }
+  .btn-success{
+   background-color: #17a2b8 !important;
+  }

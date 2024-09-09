@@ -1,0 +1,21 @@
+.contact-section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  max-width: 100%; /* Ensures map doesn't exceed the container width */
+}
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  border: 0;
+}

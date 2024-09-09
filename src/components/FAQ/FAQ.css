@@ -1,0 +1,9 @@
+
+.faq-section .accordion-item {
+    margin-bottom: 1rem; /* Space between FAQ items */
+  }
+  
+  .faq-section .accordion-button {
+    background: #f8f9fa;
+    font-weight: 500;
+  }

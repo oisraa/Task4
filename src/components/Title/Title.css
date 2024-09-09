@@ -1,0 +1,11 @@
+.custom-title {
+    font-size: 2.5rem; /* Large font size for the title */
+  }
+  
+  .green-line {
+    width: 100px;
+    height: 5px;
+    background-color: #1fe7f6;
+    margin: 0.5rem auto; /* Adjust margin for spacing */
+  }
+  

@@ -1,0 +1,9 @@
+.card-img-top {
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image covers the area while maintaining aspect ratio */
+  }
+  
+  .card-body {
+    text-align: center; /* Center-aligns text in the card body */
+  }
+  

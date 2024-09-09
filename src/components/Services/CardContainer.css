@@ -1,0 +1,9 @@
+/* Add this to your CSS file */
+.card-container .col {
+    padding: 0.5rem; /* Reduce padding around the cards */
+  }
+  
+  .card-container .card {
+    margin-bottom: 1rem; /* Reduce space below each card */
+  }
+  

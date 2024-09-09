@@ -1,0 +1,19 @@
+:root{
+  --my-primary: #2abbc5ef;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 2000px;
+
+}
+.bg-my-primary{
+  background: var(--my-primary) !important;
+}
+button.bg-my-primary:hover{
+  background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(243, 231, 231, 0.1)), var(--my-primary) !important;
+}
